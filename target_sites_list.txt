@@ -1,0 +1,3 @@
+https://google.com
+http://httpbin.org/ip
+https://www.sberbank.ru/
